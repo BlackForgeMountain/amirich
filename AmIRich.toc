@@ -1,0 +1,7 @@
+## Interface: 100105
+## Title: AmIRich
+## Notes: A small test to create an addon on World of Warcraft
+## Author: Carbo
+## Version: 1.0.0
+
+addon.lua
