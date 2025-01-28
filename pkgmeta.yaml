@@ -1,0 +1,32 @@
+name: Am I Rich?
+description: it's an addon to calculate the total value of your sellable items in your bags (vendorprice).
+version: 1.0.0-alpha
+author: Carbo
+email:
+license: MIT
+tags:
+  - WoW
+  - Addon
+  - French
+  - English
+
+release-type: alpha
+release-date-iso: 2025-01-28T19:34:25Z
+release-date-integer: 1738092865
+
+# Don't change this, automatically while packaging
+file-revision: @file-revision@
+file-hash: @file-hash@
+project-revision: @project-revision@
+project-hash: @project-hash@
+file-abbreviated-hash: @file-abbreviated-hash@
+project-abbreviated-hash: @project-abbreviated-hash@
+file-author: @file-author@
+project-author: @project-author@
+file-date-iso: @file-date-iso@
+project-date-iso: @project-date-iso@
+file-date-integer: @file-date-integer@
+project-date-integer: @project-date-integer@
+file-timestamp: @file-timestamp@
+project-timestamp: @project-timestamp@
+project-version: @project-version@
